@@ -1,2 +1,3 @@
 # xue
-[简体中文](zh-cn.md)
+[Simplified-Chinese](zh-CN.md)
+
